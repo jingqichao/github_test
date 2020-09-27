@@ -1,4 +1,5 @@
 import java.net.URL;
+import java.sql.DriverManager;
 
 public class ClassLoaderTest {
 
@@ -47,6 +48,8 @@ public class ClassLoaderTest {
 //            System.out.println(extDir);
 //        }
 
+        //获取当前上下文的ClassLoader
+        Thread.currentThread().getContextClassLoader();
 
     }
 }
