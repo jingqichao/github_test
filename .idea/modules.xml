@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/git-jvm.iml" filepath="$PROJECT_DIR$/.idea/git-jvm.iml" />
       <module fileurl="file://$PROJECT_DIR$/jvm01_Loader/jvm01_Loader.iml" filepath="$PROJECT_DIR$/jvm01_Loader/jvm01_Loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvm02_Stack/jvm02_Stack.iml" filepath="$PROJECT_DIR$/jvm02_Stack/jvm02_Stack.iml" />
     </modules>
   </component>
 </project>

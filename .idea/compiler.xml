@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="jvm01_Loader" />
+        <module name="jvm02_Stack" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jvm01_Loader" target="1.8" />
+      <module name="jvm02_Stack" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

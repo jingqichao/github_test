@@ -7,6 +7,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/jvm01_Loader/pom.xml" />
+        <option value="$PROJECT_DIR$/jvm02_Stack/pom.xml" />
       </list>
     </option>
   </component>
